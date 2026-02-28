@@ -1,21 +1,15 @@
-# byte-calculators
-A high-performance, ad-free suite of 15+ developer and financial utility tools. Built with a focus on speed, accuracy, and clean UX.
+# 🚀 ByteCalculators.com - Ad-Free Tech & Finance Tools
+
+A suite of high-precision, privacy-first calculators built for the 2026 tech ecosystem. 100% Ad-Free. No tracking.
+
+## ✨ Key Tools:
+- **AI Token Cost Simulator:** Compare DeepSeek-V3 vs GPT-4o pricing at scale.
+- **SaaS Runway Calculator:** Essential for founders to manage burn rates and liquidity.
+- **Crypto DCA Simulator:** Math-driven investment strategies for volatile markets.
+- **FPS Sensitivity Converter:** 1:1 muscle memory transfer for titles like Arc Raiders.
+
+## 🔗 Live Version
+Access all tools for free at: [https://bytecalculators.com](https://bytecalculators.com)
 
 ## 🛠 Tech Stack
-* **Frontend:** React.js (Hooks, Context API)
-* **Language:** TypeScript (Strict Mode)
-* **Styling:** Tailwind CSS
-* **Deployment:** Vercel
-
-## ✨ Key Features
-* **Financial Logic:** Complex algorithms for SaaS runway and investment projections.
-* **Developer Utilities:** API cost simulators and data formatting tools.
-* **Responsive Design:** Optimized for all devices with a mobile-first approach.
-* **Performance:** High Lighthouse scores with optimized bundle sizes.
-
-## 🏗️ Local Development
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/byte-calculators.git`
-2. Install dependencies: `npm install`
-3. Run the project: `npm start`
-   
-The current live version is built on WordPress for SEO and CMS management, while the React/TypeScript tools are being integrated as custom components.
+React / Next.js / Tailwind CSS
