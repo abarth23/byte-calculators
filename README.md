@@ -17,3 +17,5 @@ A high-performance, ad-free suite of 15+ developer and financial utility tools. 
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/byte-calculators.git`
 2. Install dependencies: `npm install`
 3. Run the project: `npm start`
+   
+The current live version is built on WordPress for SEO and CMS management, while the React/TypeScript tools are being integrated as custom components.
