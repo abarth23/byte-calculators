@@ -1,15 +1,28 @@
-# 🚀 ByteCalculators.com - Ad-Free Tech & Finance Tools
+# 🚀 ByteCalculators.com - The "Retry Tax" & AI Economics Simulator
 
-A suite of high-precision, privacy-first calculators built for the 2026 tech ecosystem. 100% Ad-Free. No tracking.
+A suite of high-precision tools for the 2026 AI ecosystem. Built for founders who need to move beyond raw token pricing and understand real-world margins.
 
-## ✨ Key Tools:
-- **AI Token Cost Simulator:** Compare DeepSeek-V3 vs GPT-4o pricing at scale.
-- **SaaS Runway Calculator:** Essential for founders to manage burn rates and liquidity.
-- **Crypto DCA Simulator:** Math-driven investment strategies for volatile markets.
-- **FPS Sensitivity Converter:** 1:1 muscle memory transfer for titles like Arc Raiders.
+🔗 **Live Tool:** [https://bytecalculators.com/deepseek-ai-token-cost-calculator](https://bytecalculators.com/deepseek-ai-token-cost-calculator)
 
-## 🔗 Live Version
-Access all tools for free at: [https://bytecalculators.com](https://bytecalculators.com)
+## ✨ Featured: The AI "Retry Tax" Simulator
+Unlike basic calculators, this tool factors in the **hidden costs** of LLMs:
+* **March 2026 Rates:** Updated for GPT-5.2 Flagship & DeepSeek V3.2 Unified.
+* **Retry Tax Logic:** Visualize the pivot point where cheaper models become more expensive due to reliability/hallucination retries.
+* **Context Caching:** Real-time simulation of the 90% caching discounts.
+* **Batch Mode:** Toggle between real-time and 50% discounted batch processing.
 
-## 🛠 Tech Stack
-React / Next.js / Tailwind CSS
+## 🛠 Other Tools
+* **SaaS Runway & Pivot Logic:** Manage burn rates with modern liquidity constraints.
+* **Crypto DCA 2.0:** Math-driven strategies for the 2026 market.
+* **Pro Gaming Sens:** 1:1 muscle memory transfer for the latest 2026 titles.
+
+## 💻 Tech Stack
+* **Framework:** Next.js 15+ (App Router)
+* **Styling:** Tailwind CSS
+* **Logic:** High-precision Vanilla JS math engines
+
+## 🛡 Privacy First
+100% Ad-Free. No tracking. No cookies. Just math.
+
+---
+*Built in public by [abarth23](https://github.com/abarth23)*
